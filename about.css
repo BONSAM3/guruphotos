@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  margin: 3rem 0;
+}
+.about-img {
+  width: 100%;
+  border-radius: 6px;
+}
+.about-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  gap: 1rem;
+}
+.horizon {
+  width: 80%;
+  margin: 3rem auto;
+}
+.about-div {
+  background-color: rgb(231, 231, 231);
+  border-radius: 6px;
+}
+
+h5 {
+  padding: 2rem 0;
+}
+.parag {
+  padding: 1rem 5rem;
+}
+.page {
+  padding-bottom: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+.achievement {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+}
+.award-div {
+  padding: 1rem 0;
+}
+.exhibit-div {
+  padding: 1rem 0;
+}

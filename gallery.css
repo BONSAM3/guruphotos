@@ -1,0 +1,16 @@
+.port {
+  text-align: center;
+  letter-spacing: 20px;
+  margin: 3rem 0;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  padding: 0 5rem;
+  gap: 2rem;
+}
+.img-item {
+  width: 100%;
+  border-radius: 5px;
+}
